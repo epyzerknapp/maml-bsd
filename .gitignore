@@ -1,0 +1,7 @@
+*.hkl
+*.pkl
+*.ipynb_checkpoints*
+*.pyc
+*.slurm
+*.out
+*.err
